@@ -1,3 +1,9 @@
-/**
- * Created by Izes on 3/26/2016.
- */
+var GenericMVCJS = (function () {
+    function GenericMVCJS() {
+
+    }
+    return GenericMVCJS;
+})();
+
+
+

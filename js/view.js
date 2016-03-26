@@ -1,3 +1,6 @@
-/**
- * Created by Izes on 3/26/2016.
- */
+GenericMVCJS.View = (function ($) {
+    function View() {
+
+    }
+    return View;
+})(jQuery);

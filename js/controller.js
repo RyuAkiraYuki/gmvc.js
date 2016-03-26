@@ -1,3 +1,7 @@
-/**
- * Created by Izes on 3/26/2016.
- */
+GenericMVCJS.Controller = (function ($) {
+    function Controller() {
+
+    }
+
+    return Controller;
+})(jQuery);
